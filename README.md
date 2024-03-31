@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SovietComrade777
-- 👀 I’m interested in django development
-- 🌱 I’m currently learning django development
+- 👀 I’m interested in neural networks
+- 🌱 I’m currently learning AI development
 - 💞️ I’m looking to collaborate on wtf this means
 - 📫 reach me by i don't  know
 - 😄 Pronouns: Pure men,
