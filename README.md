@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SovietComrade777
-- 👀 I’m interested in neural networks
-- 🌱 I’m currently learning AI development
-- 💞️ I’m looking to collaborate on wtf this means
+- 👀 I’m interested in neural networks,Machine Learning
+- 🌱 I’m currently learning AI development,python
+- 💞️ I’m looking to love the loved ones
 - 📫 reach me by i don't  know
-- 😄 Pronouns: Pure men,
-- ⚡ Fun fact: i am a comedy guy
+- 😄 Pronouns: He,Him
+- ⚡ Fun fact: i am human.
 
 <!---
 SovietComrade777/SovietComrade777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
